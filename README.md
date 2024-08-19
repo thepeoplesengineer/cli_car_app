@@ -19,9 +19,9 @@ The **CLI Car App** is a command-line application that allows users to create an
 - [Node.js](https://nodejs.org/) (version 12.x or later)
 - [Git](https://git-scm.com/)
 
-### Clone the Repository
-### Install Dependences
-### Compile Typescript
+Clone the Repository
+Install Dependences (npm install)
+Compile Typescript (tsc)
 
 ## Usage
 
